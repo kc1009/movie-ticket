@@ -1,0 +1,5 @@
+For Flex Items: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+Option Selected Disabled : https://stackoverflow.com/questions/18179960/how-to-add-a-title-to-a-html-select-tag
+Justifing Items In Div : https://tobiasahlin.com/blog/common-flexbox-patterns/#:~:text=To%20accomplish%20this%20we%20need,the%20parent%20element%20and%20items)
+For Printing A-Z : https://stackoverflow.com/a/23409299
+Changing Color Using jQuery : https://codepen.io/raazxplorer/pen/WvyEvG
